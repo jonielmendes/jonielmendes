@@ -1,25 +1,14 @@
-<h2 align="left">About Me</h2>
-<img align="right" alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="300" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<h2 align="center">About Me</h2>
 
-###
-
-<p align="left">Systems Analysis and Development student, currently focused on C and Java studies.</p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<div align="center">
+  <img alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="300" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" />
 </div>
 
-###
+<p align="center" style="max-width: 600px; margin: 0 auto; font-size: 1.1em; line-height: 1.6;">
+  Systems Analysis and Development student, currently focused on C and Java studies.
+</p>
+
+
 
 <h2 align="left">Stats</h2>
 
