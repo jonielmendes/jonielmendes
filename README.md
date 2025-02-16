@@ -1,5 +1,3 @@
-<h2 align="left">Sobre Mim</h2>
-
 <div align="left">
   <img alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="300" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px; margin-right: 20px; float: left;" />
 </div>
