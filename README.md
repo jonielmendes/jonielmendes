@@ -3,7 +3,6 @@
 </div>
 
 <p align="left" style="max-width: 600px; font-size: 1.1em; line-height: 1.6; margin-top: 20px;">
-  Estudante de Análise e Desenvolvimento de Sistemas- IFPI.
 </p>
 
 <div style="clear: both;"></div>
