@@ -1,5 +1,6 @@
 <div align="left">
   <img alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="300" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px; margin-right: 20px; float: left;" />
+  
 </div>
 
 <p align="left" style="max-width: 600px; font-size: 1.1em; line-height: 1.6; margin-top: 20px;">
