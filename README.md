@@ -1,6 +1,10 @@
+<h1 align="center">Hello, I'm Joniel Mendes.</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Acessando+perfil+do+Joniel...;Identifica%C3%A7%C3%A3o%3A+Confirmada;%C3%81rea%3A+Dev+%7C+Embarcados+%7C+Pesq+Aplicada;Status%3A+Online+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  I’m a resident in Embedded Systems through the Embarca Tech program,<br>
+  currently pursuing a degree in Systems Analysis and Development at IFPI,<br>
+  with strong interest in applied research and technological innovation.
 </p>
+
 
 <div align="center">
   <img alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="650" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" />
