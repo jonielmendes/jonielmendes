@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm Joniel Mendes.</h1>
+<h1 align="center">Olá, eu sou Joniel Mendes</h1>
 <p align="center">
-  I’m a resident in Embedded Systems through the Embarca Tech program,<br>
-  currently pursuing a degree in Systems Analysis and Development at IFPI,<br>
-  with strong interest in applied research and technological innovation.
+  Residente em Sistemas Embarcados e 
+  atualmente estudante de Análise e Desenvolvimento de Sistemas no IFPI,<br>
+  com forte interesse em pesquisa aplicada e inovação tecnológica.
 </p>
 
 
