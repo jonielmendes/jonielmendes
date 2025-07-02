@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Joniel Mendes</h1>
+<h1 align="center">Olá, sou Joniel Mendes</h1>
 <p align="center">
   Residente em Sistemas Embarcados e 
   atualmente estudante de Análise e Desenvolvimento de Sistemas no IFPI,<br>
