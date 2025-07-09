@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou Joniel Mendes</h1>
 <p align="center">
   Residente em Sistemas Embarcados e 
-   estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br>
-  Interesse em pesquisa aplicada e inovação tecnológica.
+   estudante de Análise e Desenvolvimento de Sistemas no IFPI,<br>
+ e tenho grande interesse em desenvolvimento de software.
 </p>
 
 <div align="center">
